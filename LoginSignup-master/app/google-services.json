@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91277754765",
+    "project_id": "loginsignup-master",
+    "storage_bucket": "loginsignup-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91277754765:android:037af72caec85be46e7dc4",
+        "android_client_info": {
+          "package_name": "info.camposha.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91277754765-gs5igv7igclpta3330hldn0httlhnj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN3Nq-2lnHmRqsd8MzXcqlZOZ3suRySE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91277754765-gs5igv7igclpta3330hldn0httlhnj3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
